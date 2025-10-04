@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @slime4ik
-- 👀 I’m interested in Django
-- 🌱 I’m currently learning DRF
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me idk
-- 😄 Pronouns: idk
-- ⚡ Fun fact: idk
+# 👋 Hey, I’m Vyacheslav
 
-<!---
-slime4ik/slime4ik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🐍 Mostly into Django + DRF  
+- 🗄️ PostgreSQL, Redis, Elasticsearch (optimization) 
+- ⚡ Celery, RabbitMQ, WebSockets (async stuff)
+- 🐳 Docker, Nginx — deploy things
+- 🎨 Sometimes React / React Native to give my APIs a face
+
+---
+
+### A bit more
+- 👀 I like building side projects and breaking things while learning  
+- 🌱 Right now messing around with React Native  
+- 📫 Telegram: [@stupid1kid](https://t.me/stupid1kid)  
+
+---
+
+In fact: I use Arch btw 😎
