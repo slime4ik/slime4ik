@@ -14,5 +14,4 @@
 - 📫 Telegram: [@stupid1kid](https://t.me/stupid1kid)  
 
 ---
-
-In fact: I use Arch btw 😎
+I use Arch btw 😎
