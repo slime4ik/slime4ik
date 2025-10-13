@@ -10,7 +10,7 @@
 
 ### A bit more
 - 👀 I like building side projects and breaking things while learning  
-- 🌱 Right now messing around with React Native  
+- 🌱 Right now messing around with Goooooooooooo(best lang btw)
 - 📫 Telegram: [@stupid1kid](https://t.me/stupid1kid)  
 
 ---
